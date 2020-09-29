@@ -9,4 +9,4 @@ Used Node.js, Express and Knex to build an API that provides protected routes, s
 
 Add support for **sessions** and **cookies**, use them to keep a record of logged in users across requests.
 
-!()[1.png]
+![](1.png)
